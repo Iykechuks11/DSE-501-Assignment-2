@@ -1,0 +1,4 @@
+Hasan, Dag, 59, M, Cibali, 1, Istanbul, Turkey.
+Reiner, Cruetzburg, 68, M, Ernst-Reuter Platz, 10, Berlin, Germany.
+Jane, Scharz, 34, F, Jung Street, 23, Chicago, USA. 
+Klaus, Tomy, 21, M, Blume street, 98, Potsdam, Germany.
